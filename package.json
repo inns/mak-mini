@@ -1,0 +1,24 @@
+{
+  "name": "mak-mini",
+  "version": "0.1.2",
+  "description": "A (small) piece of paper.",
+  "main": "main.js",
+  "repository": "https://github.com/inns/mak-mini",
+  "author": "Shu Ding @shdin",
+  "license": "MIT",
+  "scripts": {
+    "build:win32":
+      "electron-packager . Mak --platform=win32 --arch=x64 --version=0.1.2 --icon=Icon.ico --overwrite",
+    "build:darwin":
+      "electron-packager . Mak --platform=darwin --arch=x64 --version=0.1.2 --icon=Icon.icns --overwrite",
+    "dev:win32": "set NODE_ENV=development && electron .",
+    "dev:darwin": "NODE_ENV=development electron ."
+  },
+  "dependencies": {
+    "electron": "^1.7.8",
+    "menubar": "^5.2.3"
+  },
+  "devDependencies": {
+    "electron-packager": "^9.1.0"
+  }
+}

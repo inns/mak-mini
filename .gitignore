@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+
+Mak-win32-x64
+Mak-darwin-x64
