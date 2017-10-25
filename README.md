@@ -9,7 +9,7 @@ Build on top of [Mak](https://github.com/inns/mak).
 
 
 ## The App
-[Download latest releases](https://github.com/quietshu/makpad-mini/releases).
+[Download latest releases](https://github.com/inns/mak-mini/releases).
 
 <img src='screenshot/mak.png' width=539 align='right'/>
 
