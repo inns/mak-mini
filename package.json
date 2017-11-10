@@ -8,9 +8,9 @@
   "license": "MIT",
   "scripts": {
     "build:win32":
-      "electron-packager . Mak --platform=win32 --arch=x64 --version=0.1.2 --icon=Icon.ico --overwrite",
+      "electron-packager . Mak --platform=win32 --arch=x64 --version=0.1.2 --icon=Icon.ico --overwrite --package-manager=yarn",
     "build:darwin":
-      "electron-packager . Mak --platform=darwin --arch=x64 --version=0.1.2 --icon=Icon.icns --overwrite",
+      "electron-packager . Mak --platform=darwin --arch=x64 --version=0.1.2 --icon=Icon.icns --overwrite --package-manager=yarn",
     "dev:win32": "set NODE_ENV=development && electron .",
     "dev:darwin": "NODE_ENV=development electron ."
   },
