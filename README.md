@@ -79,14 +79,12 @@ Mak<sup>mini</sup> is built on top of Electron.
 `$ yarn`
 
 ### Get started
-In macOS, run `$ yarn dev:darwin`.  
-In Windows PowerShell, run `$ yarn dev:win32`.
+Run `$ yarn dev`.  
 
 When running in development mode, you can use the Inspector for debugging.
 
 ### Build Production
-For macOS build, run `$ yarn build:darwin`.  
-For Windows build, run `$ yarn build:win32`.
+Run `$ yarn build` to generate a build for your environment (darwin/win32/etc.).  
 
 
 ## License & Acknowledgement

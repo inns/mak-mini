@@ -2,23 +2,23 @@
   "name": "mak-mini",
   "version": "0.4.3",
   "description": "A (small) piece of paper.",
-  "main": "index.js",
+  "main": "./src",
   "repository": "https://github.com/inns/mak-mini",
   "author": "Shu Ding @shdin",
   "license": "MIT",
   "scripts": {
-    "build:win32":
-      "electron-packager . Mak --platform=win32 --arch=x64 --version=0.1.2 --icon=Icon.ico --overwrite --package-manager=yarn",
-    "build:darwin":
-      "electron-packager . Mak --platform=darwin --arch=x64 --version=0.1.2 --icon=Icon.icns --overwrite --package-manager=yarn",
-    "dev:win32": "set NODE_ENV=development && electron .",
-    "dev:darwin": "NODE_ENV=development electron ."
+    "dev": "NODE_ENV=development electron-forge start",
+    "build": "electron-forge make",
+    "release": "electron-forge publish"
   },
   "dependencies": {
-    "electron": "^1.7.8",
     "menubar": "^5.2.3"
   },
   "devDependencies": {
-    "electron-packager": "^9.1.0"
+    "@electron-forge/cli": "^6.0.0-beta.1",
+    "electron": "2.0.2"
+  },
+  "config": {
+    "forge": "./forge.config.js"
   }
 }
