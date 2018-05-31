@@ -18,13 +18,14 @@
 <img src='assets/mak-mini.png' width=128 height=128 align='right'/>
 
 ## The App
-[Download latest releases](https://github.com/inns/mak-mini/releases).
+[Download latest releases](https://github.com/inns/mak-mini/releases)  
+[Changelog](https://github.com/inns/mak-mini/blob/master/CHANGELOG.md)
 
 ### “Maximally Minimal”
 
 The simplicity of plain text, the power of Markdown. 
 
-Besides taking notes, you can **interact** with your document to organize it. Checkboxes and links are clickable, drop files to open, code editor shortcuts... Which all make it so intuitive to use in your way. Todo-list, story outlines or linked fragments, it's up to you.
+Besides taking notes, you can **interact** with your document to organize it. Checkboxes and links are clickable, drop files to open, code editor shortcuts... Which all make it so intuitive to use in your way. To-do list, story outlines or linked fragments, it's up to you.
 
 For links start with a hashtag (#), it's just a **file** in Mak. You can either use Markdown links (`[](#notes)`) or select "List" in the tray menu to jump to that file.
 
@@ -32,7 +33,7 @@ There're powerful **commands**, of course. By typing `go:`, you can quick jump t
 
 Most importantly, each advanced feature does not break the experience of any basic functionalities. If you don't need some feature, it doesn't exist.
 
-For more details & usage, please read [Mak: a piece of paper](https://github.com/inns/mak).  
+For more details & usage, please read [Mak: a universal notepad.](https://github.com/inns/mak).  
 If you have any suggestions or feedbacks, feel free to open a issue.
 
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width=880 />
@@ -43,9 +44,9 @@ If you have any suggestions or feedbacks, feel free to open a issue.
 
 Mak<sup>mini</sup> is a menubar App, just as simple as [Mak](https://mak.ink). But unlike the browser version, Mak<sup>mini</sup> is **NOT** designed to be focused on. The key point is **easy to access**.
 
-You can use it just like stickers, todo list, quick notes, temporary clipboard with read-it-later URLs, or **any mess you don't know where to put**.
+You can use it just like stickers, to-do lists, quick notes, a temporary clipboard with read-it-later URLs, or **any mess you don't know where to put**.
 
-It's not a focus writing tool. The reading and split mode are both disabled currently.
+This is not a focus writing tool. The Mak read/split preview mode are disabled currently.
 
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width=880 />
 
@@ -53,7 +54,7 @@ It's not a focus writing tool. The reading and split mode are both disabled curr
 
 ### TouchBar Support (MacBook 2016)
 
-TouchBar is convenient and intuitive. That's also parts of Mak's philosophy, and Mak<sup>mini</sup> works perfectly with it.
+TouchBar is convenient and intuitive, also a part of Mak's philosophy. Mak<sup>mini</sup> works perfectly with it.
 
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width=880 />
 
@@ -66,24 +67,26 @@ There's also a Windows version. The dark theme looks gorgeous in Windows 10.
 <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width=880 />
 
 
-## Source Code
+## Share Mak<sup>mini</sup>
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A+small+piece+of+paper:&url=https%3A%2F%2Fgithub.com%2Finns%2Fmak-mini)
+
+
+## Development
+
+Mak<sup>mini</sup> is built on top of Electron.
 
 ### Install dependencies
 `$ yarn`
 
-### Development
+### Get started
 In macOS, run `$ yarn dev:darwin`.  
 In Windows PowerShell, run `$ yarn dev:win32`.
 
-When running development mode, you can use the Inspector for debugging.
+When running in development mode, you can use the Inspector for debugging.
 
 ### Build Production
 For macOS build, run `$ yarn build:darwin`.  
 For Windows build, run `$ yarn build:win32`.
-
-
-## Share Mak<sup>mini</sup>
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A+small+piece+of+paper:&url=https%3A%2F%2Fgithub.com%2Finns%2Fmak-mini)
 
 
 ## License & Acknowledgement

@@ -1,8 +1,8 @@
 {
   "name": "mak-mini",
-  "version": "0.1.2",
+  "version": "0.4.3",
   "description": "A (small) piece of paper.",
-  "main": "main.js",
+  "main": "index.js",
   "repository": "https://github.com/inns/mak-mini",
   "author": "Shu Ding @shdin",
   "license": "MIT",

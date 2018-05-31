@@ -26,3 +26,13 @@
 - Fixed tray icon in Windows.
 - Fixed skipTaskbar in Windows.
 - Code refactorings.
+
+## 0.4.3 (May 31, 2018)
+- Fixed broken Touchbar buttons.
+- Fixed popup window & GitHub auth.
+- Added Gist load to the tray menu.
+- Removed `setInterval`.
+- Refined Touchbar icons (current file, theme, line number, font size).
+- New icon.
+- Updated README.md.
+- Updated version number (same as Mak).
