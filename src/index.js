@@ -25,6 +25,13 @@ const mb = menubar({
 mb.on('ready', function() {
   mb.window.setSkipTaskbar(true)
 
+  // Workaround to fix window position when statusbar at top for win32
+  if (platform === 'win32') {
+    if (mb.tray.getBounds().y < 5) {
+      mb.setOption('windowPosition', 'trayCenter')
+    }
+  }
+
   mb.window.webContents.on('did-finish-load', function() {
     mb.window.webContents.executeJavaScript(';window.IS_MAK_MINI = true;')
     // setInterval(tick, 500)
