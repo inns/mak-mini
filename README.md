@@ -3,8 +3,8 @@
 <h5 align="center">A (small) piece of paper. Build on top of <a href="https://github.com/inns/mak">Mak</a>.</h5>
 
 <div align="center">
-  <a href="https://gitter.im/inns/mak">
-    <img src='https://img.shields.io/gitter/room/inns/mak.svg'/>
+  <a href="https://github.com/inns/mak-mini/releases">
+    <img src='https://img.shields.io/github/downloads/inns/mak-mini/total.svg'/>
   </a>
   <a href="https://github.com/inns/mak-mini/releases">
     <img src='https://img.shields.io/github/package-json/v/inns/mak-mini.svg'/>
