@@ -7,10 +7,10 @@
     <img src='https://img.shields.io/github/downloads/inns/mak-mini/total.svg'/>
   </a>
   <a href="https://github.com/inns/mak-mini/releases">
-    <img src='https://img.shields.io/github/package-json/v/inns/mak-mini.svg'/>
+    <img src='https://badgen.net/github/release/inns/mak-mini'/>
   </a>
   <a href="https://mak.ink">
-    <img src='https://img.shields.io/website-up-down-green-red/https/mak.ink.svg?label=mak.ink'/>
+    <img src='https://badgen.net/uptime-robot/day/m780777417-1f8362b19452b5fe087b4c7f'/>
   </a>
 </div>
 
