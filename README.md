@@ -17,8 +17,6 @@
   </a>
 </div>
 
-Join [Mak User Group](https://t.me/mak_ink) ([中文用户群](https://t.me/mak_ink_cn)) on Telegram.
-
 <img src='assets/mak-mini.png' width=128 height=128 align='right'/>
 
 ## The App
@@ -29,9 +27,11 @@ Join [Mak User Group](https://t.me/mak_ink) ([中文用户群](https://t.me/mak_
 For detailed documentation and live demos, please visit https://github.com/inns/mak and https://inns.studio/mak.  
 If you have any suggestions or feedbacks, feel free to open a issue.
 
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width=880 />
+Join [Mak User Group](https://t.me/mak_ink) ([中文用户群](https://t.me/mak_ink_cn)) on Telegram.
 
-<img src='screenshot/mak.png' width=539 align='right'/>
+<div align="center">
+  <img src='screenshot/mak.png' width=539 />
+</div>
 
 ### macOS
 
@@ -41,24 +41,21 @@ That said, many features in Mak (like read/split preview mode) are disabled in M
 
 You can use it just like other stickers app, to-do lists, quick notes, a temporary clipboard with read-it-later URLs. You can put inside **anything you don't know where to put**.
 
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width=880 />
-
-<img src='screenshot/touchbar.png' width=650 align='right'/>
+<div align="center">
+  <img src='screenshot/touchbar.png' width=650 />
+</div>
 
 ### TouchBar
 
 TouchBar buttons let you navigate between your notes quickly.
 
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width=880 />
-
-<img src='screenshot/windows-mak.png' width=531 align='right'/>
+<div align="center">
+  <img src='screenshot/windows-mak.png' width=531 />
+</div>
 
 ### Windows
 
 Mak<sup>mini</sup> also comes with a Windows version. The dark theme looks gorgeous in Windows 10.
-
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width=880 />
-
 
 ## Development
 
