@@ -15,8 +15,8 @@
     "menubar": "^5.2.3"
   },
   "devDependencies": {
-    "@electron-forge/cli": "^6.0.0-beta.1",
-    "electron": "2.0.2"
+    "@electron-forge/cli": "^6.0.0-beta.33",
+    "electron": "^4.1.3"
   },
   "config": {
     "forge": "./forge.config.js"
