@@ -29,10 +29,6 @@ If you have any suggestions or feedbacks, feel free to open a issue.
 
 Join [Mak User Group](https://t.me/mak_ink) ([中文用户群](https://t.me/mak_ink_cn)) on Telegram.
 
-<div align="center">
-  <img src='screenshot/mak.png' width=539 />
-</div>
-
 ### macOS
 
 Mak<sup>mini</sup> is the menubar version of [Mak](https://mak.ink). But unlike the browser version, Mak<sup>mini</sup> is **NOT** designed to be focused on for long writings. The goal of it is **easy to access**.
@@ -42,7 +38,7 @@ That said, many features in Mak (like read/split preview mode) are disabled in M
 You can use it just like other stickers app, to-do lists, quick notes, a temporary clipboard with read-it-later URLs. You can put inside **anything you don't know where to put**.
 
 <div align="center">
-  <img src='screenshot/touchbar.png' width=650 />
+  <img src='screenshot/mak.png' width=539 />
 </div>
 
 ### TouchBar
@@ -50,12 +46,16 @@ You can use it just like other stickers app, to-do lists, quick notes, a tempora
 TouchBar buttons let you navigate between your notes quickly.
 
 <div align="center">
-  <img src='screenshot/windows-mak.png' width=531 />
+  <img src='screenshot/touchbar.png' width=650 />
 </div>
 
 ### Windows
 
 Mak<sup>mini</sup> also comes with a Windows version. The dark theme looks gorgeous in Windows 10.
+
+<div align="center">
+  <img src='screenshot/windows-mak.png' width=531 />
+</div>
 
 ## Development
 
