@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://twitter.com/intent/tweet?text=A+small+piece+of+paper:&url=https%3A%2F%2Fgithub.com%2Finns%2Fmak-mini">
-    <img src="https://badgen.net/badge//tweet?icon=twitter"/>
+    <img src="https://badgen.net/badge/Share/tweet?icon=twitter"/>
   </a>
   <a href="https://github.com/inns/mak-mini/releases">
     <img src='https://badgen.net/github/release/inns/mak-mini'/>
